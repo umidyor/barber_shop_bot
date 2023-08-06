@@ -1,0 +1,6 @@
+barber_database.db
+env.py
+venv
+__pycache__
+.idea
+users_data.json
